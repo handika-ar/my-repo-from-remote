@@ -23,3 +23,13 @@ body{
     text-align: center;
     color: white;
 }
+#footer{
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    bottom: 0;
+    line-height: 50px;
+    background-color: burlywood;
+    text-align: center;
+    color: white;
+}
